@@ -1,4 +1,4 @@
-Welcome to my GitHub repository! 🥸
+Welcome to my GitHub repositories! 🥸
 
 - 👋 Howdy, I’m @jimbit-io, or just call me Jim.
 - 👀 I’m interested in A8n, V12n.
