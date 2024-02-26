@@ -1,8 +1,8 @@
 Welcome to my GitHub repositories! 🥸
 
 - 👋 Howdy, I’m @jimbit-io, or just call me Jim.
-- 👀 I’m interested in network A8n & V12n ;)
-- 🌱 I’m currently learning CCNP Automation, PowerShell and Azure.
+- 👀 I’m interested in network A8n. Especially PowerShell, Python and Terraform.
+- 🌱 I’m currently studying for CCNP Automation and CCNP Security.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jvameyde)
 
 <!---
