@@ -1,4 +1,4 @@
-Welcome to my GitHub repositories! 🥸
+Welcome to my GitHub repositories! 🥸 Most, if not all, are private. Sorry!
 
 - 👋 Howdy, I’m @jimbit-io, or just call me Jim.
 - 👀 I’m interested in network A8n. Especially PowerShell, Python and Terraform.
